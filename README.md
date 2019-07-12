@@ -2,6 +2,6 @@
 
 
 
-Download jar file (VendingMachineRESTWebService/VendingMachineRESTWebServie.jar)
+Download jar file (VendingMachineRESTWebService/VendingMachineRESTWebService.jar)
 
 Terminal command: java -jar VendingMachineRESTWebServie.jar
